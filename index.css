@@ -1,0 +1,21 @@
+div.kolon{
+    float: left;
+    width: 25%;
+    text-align: center;
+    box-sizing: border-box;
+    height: 350px;
+    border-left: 1px solid black;
+}
+div.googleMaps{
+    height: 400px;
+    width: 100%;
+    /* bottom: 0px; */
+    /* position: fixed; */
+    text-align: top;
+    border: 2px solid black;
+
+}
+.girdi:focus{
+background-color: lightblue;
+
+}
